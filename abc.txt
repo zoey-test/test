@@ -6,4 +6,8 @@ but it is and I'm so annoyed
 
 next day, still annoyed
 
+<<<<<<< HEAD
+still figuring out branches
+=======
 trying to figure out pull requests
+>>>>>>> ad9ca6611362617ab60cc7f6453fc1dbbd122671
